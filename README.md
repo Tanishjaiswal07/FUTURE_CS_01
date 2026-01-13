@@ -1,6 +1,6 @@
 # FUTURE_CS_01 – Cyber Security Internship
 
-Intern Name: Tanishq Jaiswal  
+Intern Name: Tanish Jaiswal  
 CIN ID: FIT/DEC25/CS5061  
 Organization: Future Interns  
 
